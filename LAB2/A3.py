@@ -110,3 +110,4 @@ plt.xlabel("Day of the Week")
 plt.ylabel("Change %")
 plt.title("Chg% vs Day of the Week")
 plt.show()
+
